@@ -1,0 +1,6 @@
+framework module Pods_SwiftCodingAssignment {
+  umbrella header "Pods-SwiftCodingAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
